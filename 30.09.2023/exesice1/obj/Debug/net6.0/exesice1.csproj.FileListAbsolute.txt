@@ -1,0 +1,15 @@
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice1\obj\Debug\net6.0\exesice1.csproj.AssemblyReference.cache
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice1\obj\Debug\net6.0\exesice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice1\obj\Debug\net6.0\exesice1.AssemblyInfoInputs.cache
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice1\obj\Debug\net6.0\exesice1.AssemblyInfo.cs
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice1\obj\Debug\net6.0\exesice1.csproj.CoreCompileInputs.cache
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice1\bin\Debug\net6.0\exesice1.exe
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice1\bin\Debug\net6.0\exesice1.deps.json
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice1\bin\Debug\net6.0\exesice1.runtimeconfig.json
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice1\bin\Debug\net6.0\exesice1.dll
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice1\bin\Debug\net6.0\exesice1.pdb
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice1\obj\Debug\net6.0\exesice1.dll
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice1\obj\Debug\net6.0\refint\exesice1.dll
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice1\obj\Debug\net6.0\exesice1.pdb
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice1\obj\Debug\net6.0\exesice1.genruntimeconfig.cache
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice1\obj\Debug\net6.0\ref\exesice1.dll
