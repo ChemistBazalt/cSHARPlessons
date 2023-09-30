@@ -1,0 +1,15 @@
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Array_Lib\bin\Debug\net6.0\Array_Lib.exe
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Array_Lib\bin\Debug\net6.0\Array_Lib.deps.json
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Array_Lib\bin\Debug\net6.0\Array_Lib.runtimeconfig.json
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Array_Lib\bin\Debug\net6.0\Array_Lib.dll
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Array_Lib\bin\Debug\net6.0\Array_Lib.pdb
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Array_Lib\obj\Debug\net6.0\Array_Lib.csproj.AssemblyReference.cache
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Array_Lib\obj\Debug\net6.0\Array_Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Array_Lib\obj\Debug\net6.0\Array_Lib.AssemblyInfoInputs.cache
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Array_Lib\obj\Debug\net6.0\Array_Lib.AssemblyInfo.cs
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Array_Lib\obj\Debug\net6.0\Array_Lib.csproj.CoreCompileInputs.cache
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Array_Lib\obj\Debug\net6.0\Array_Lib.dll
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Array_Lib\obj\Debug\net6.0\refint\Array_Lib.dll
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Array_Lib\obj\Debug\net6.0\Array_Lib.pdb
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Array_Lib\obj\Debug\net6.0\Array_Lib.genruntimeconfig.cache
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Array_Lib\obj\Debug\net6.0\ref\Array_Lib.dll

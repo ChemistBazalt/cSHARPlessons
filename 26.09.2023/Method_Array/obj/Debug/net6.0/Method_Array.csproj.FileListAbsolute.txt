@@ -1,0 +1,15 @@
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Method_Array\bin\Debug\net6.0\Method_Array.exe
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Method_Array\bin\Debug\net6.0\Method_Array.deps.json
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Method_Array\bin\Debug\net6.0\Method_Array.runtimeconfig.json
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Method_Array\bin\Debug\net6.0\Method_Array.dll
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Method_Array\bin\Debug\net6.0\Method_Array.pdb
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Method_Array\obj\Debug\net6.0\Method_Array.csproj.AssemblyReference.cache
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Method_Array\obj\Debug\net6.0\Method_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Method_Array\obj\Debug\net6.0\Method_Array.AssemblyInfoInputs.cache
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Method_Array\obj\Debug\net6.0\Method_Array.AssemblyInfo.cs
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Method_Array\obj\Debug\net6.0\Method_Array.csproj.CoreCompileInputs.cache
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Method_Array\obj\Debug\net6.0\Method_Array.dll
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Method_Array\obj\Debug\net6.0\refint\Method_Array.dll
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Method_Array\obj\Debug\net6.0\Method_Array.pdb
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Method_Array\obj\Debug\net6.0\Method_Array.genruntimeconfig.cache
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Method_Array\obj\Debug\net6.0\ref\Method_Array.dll

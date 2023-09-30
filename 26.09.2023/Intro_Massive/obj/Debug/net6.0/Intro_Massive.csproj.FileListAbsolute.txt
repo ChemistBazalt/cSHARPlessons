@@ -1,0 +1,15 @@
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Intro_Massive\bin\Debug\net6.0\Intro_Massive.exe
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Intro_Massive\bin\Debug\net6.0\Intro_Massive.deps.json
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Intro_Massive\bin\Debug\net6.0\Intro_Massive.runtimeconfig.json
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Intro_Massive\bin\Debug\net6.0\Intro_Massive.dll
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Intro_Massive\bin\Debug\net6.0\Intro_Massive.pdb
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Intro_Massive\obj\Debug\net6.0\Intro_Massive.csproj.AssemblyReference.cache
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Intro_Massive\obj\Debug\net6.0\Intro_Massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Intro_Massive\obj\Debug\net6.0\Intro_Massive.AssemblyInfoInputs.cache
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Intro_Massive\obj\Debug\net6.0\Intro_Massive.AssemblyInfo.cs
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Intro_Massive\obj\Debug\net6.0\Intro_Massive.csproj.CoreCompileInputs.cache
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Intro_Massive\obj\Debug\net6.0\Intro_Massive.dll
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Intro_Massive\obj\Debug\net6.0\refint\Intro_Massive.dll
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Intro_Massive\obj\Debug\net6.0\Intro_Massive.pdb
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Intro_Massive\obj\Debug\net6.0\Intro_Massive.genruntimeconfig.cache
+C:\Users\~\Desktop\Lessons c#\lessonscshar\26.09.2023\Intro_Massive\obj\Debug\net6.0\ref\Intro_Massive.dll
