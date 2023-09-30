@@ -1,0 +1,15 @@
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice2\bin\Debug\net6.0\exesice2.exe
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice2\bin\Debug\net6.0\exesice2.deps.json
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice2\bin\Debug\net6.0\exesice2.runtimeconfig.json
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice2\bin\Debug\net6.0\exesice2.dll
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice2\bin\Debug\net6.0\exesice2.pdb
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice2\obj\Debug\net6.0\exesice2.csproj.AssemblyReference.cache
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice2\obj\Debug\net6.0\exesice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice2\obj\Debug\net6.0\exesice2.AssemblyInfoInputs.cache
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice2\obj\Debug\net6.0\exesice2.AssemblyInfo.cs
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice2\obj\Debug\net6.0\exesice2.csproj.CoreCompileInputs.cache
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice2\obj\Debug\net6.0\exesice2.dll
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice2\obj\Debug\net6.0\refint\exesice2.dll
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice2\obj\Debug\net6.0\exesice2.pdb
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice2\obj\Debug\net6.0\exesice2.genruntimeconfig.cache
+C:\Users\~\Desktop\Lessons c#\lessonscshar\30.09.2023\exesice2\obj\Debug\net6.0\ref\exesice2.dll
